@@ -3,3 +3,4 @@ try:
         file.write("Fayl yangi")
 except FileExistsError:
     print("fayl yaratilgan")
+
