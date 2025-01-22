@@ -6,10 +6,10 @@ import os
 # else:
 #     print("fayl mavjud emas")
 
-dir_path="/bu yega beriladigan manzil"
-
-if os.path.exists(dir_path) and os.path.isdir(dir_path):
-    os.rmdir(dir_path)
-    print(f"Diraktoriy {dir_path} o'chirildi")
-else:
-    print("xatolik yuz berdi bu yerda yer bo'sh emas")
+# dir_path="/bu yega beriladigan manzil"
+#
+# if os.path.exists(dir_path) and os.path.isdir(dir_path):
+#     os.rmdir(dir_path)
+#     print(f"Diraktoriy {dir_path} o'chirildi")
+# else:
+#     print("xatolik yuz berdi bu yerda yer bo'sh emas")
